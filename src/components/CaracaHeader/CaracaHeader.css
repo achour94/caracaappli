@@ -1,0 +1,26 @@
+.TeamName {
+    font-weight: bold;
+    color: white;
+}
+.Result {
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    padding: 10px 0;
+    margin-bottom: 10px;
+
+}
+
+
+.Question {
+    background-color: lightgray;
+    border-radius: 20px;
+    color: black;
+    text-align: center;    
+}
+
+.Response {
+    background-color: #ff7900;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+}

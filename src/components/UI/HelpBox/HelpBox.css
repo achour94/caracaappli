@@ -1,0 +1,20 @@
+.HelpContainer{
+    position: relative;
+    margin-top: 40px;
+    padding: 0;
+    height: 20px;
+}
+
+.Image{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 90%;
+    top: -45%;
+}
+
+.Message{
+    background-color: gray;
+    color: white;
+    padding: 5px;
+}

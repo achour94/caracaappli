@@ -1,0 +1,31 @@
+.ScrollingWrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    height: 160px ;
+  margin-top: 15px;
+  border-top: 4px solid lightgray;
+  padding-top: 3px;
+  scrollbar-color: rebeccapurple black;
+  scrollbar-width: thin;
+    -webkit-overflow-scrolling: touch;
+    
+}
+
+.CardE {
+  flex: 0 0 auto;
+  width: 22%;
+  margin-left: 2px;
+  margin-right: 10px;
+  border-radius: 0 0 20px 20px;
+  
+}
+.CardE img{
+  margin: auto;
+}
+
+@media (min-width: 500px){
+  .ScrollingWrapper{
+    /*height: auto;*/
+  }
+}

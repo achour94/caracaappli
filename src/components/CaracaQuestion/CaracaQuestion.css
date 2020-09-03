@@ -1,0 +1,46 @@
+.QuestionContainer{
+    margin: 10px 0;
+    padding: 0;
+    color: white;
+}
+.Question {
+    background-color: lightblue;
+    padding: 10px;
+    color: black;
+    margin: auto;
+}
+.SuggestionContainer {
+    margin: auto;
+    color: black;
+    background-color: white;
+}
+.Suggestion{
+    height: auto;
+    margin: 5px 0px 7px 0px;
+    padding: 0;
+}
+
+.Check{
+    height: 20px;
+    width: 20px;
+    margin: 13px 0px 0px 4px;
+    opacity: 0.9;
+}
+
+.Libelle{
+   
+    margin: 5px 0 5px 27px;
+    font-size: large;
+    width: 90%;
+}
+
+.Button{
+    background-color: #ff7900;
+    color: white;
+    width: 100%;
+    margin: 0;
+    margin-top: 20%;
+    font-size: 1.5em;
+    font-weight: bold;
+    border-radius: 20px;
+}

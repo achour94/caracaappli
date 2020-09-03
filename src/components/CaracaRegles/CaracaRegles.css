@@ -1,0 +1,9 @@
+.Image{
+    margin: auto;
+}
+.Button {
+    background-color: #ff7900;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
